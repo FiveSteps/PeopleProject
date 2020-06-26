@@ -1,0 +1,13 @@
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\bin\Debug\netcoreapp3.1\PeopleProject.exe
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\bin\Debug\netcoreapp3.1\PeopleProject.deps.json
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\bin\Debug\netcoreapp3.1\PeopleProject.runtimeconfig.json
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\bin\Debug\netcoreapp3.1\PeopleProject.runtimeconfig.dev.json
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\bin\Debug\netcoreapp3.1\PeopleProject.dll
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\bin\Debug\netcoreapp3.1\PeopleProject.pdb
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\obj\Debug\netcoreapp3.1\PeopleProject.csprojAssemblyReference.cache
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\obj\Debug\netcoreapp3.1\PeopleProject.AssemblyInfoInputs.cache
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\obj\Debug\netcoreapp3.1\PeopleProject.AssemblyInfo.cs
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\obj\Debug\netcoreapp3.1\PeopleProject.csproj.CoreCompileInputs.cache
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\obj\Debug\netcoreapp3.1\PeopleProject.dll
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\obj\Debug\netcoreapp3.1\PeopleProject.pdb
+C:\Users\JackYellow\Desktop\PeopleProject\PeopleProject\obj\Debug\netcoreapp3.1\PeopleProject.genruntimeconfig.cache
